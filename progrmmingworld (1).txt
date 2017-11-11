@@ -1,0 +1,35 @@
+Today is DIU Takeoff Programming Contest.Every single people around the world knows about this contest.Even Outside the world there exist a planet Called "Pogramming World" knows about our contest.
+In the contest, DIU-CPC invited the people of "Programming World" to attend the contest(their exists a lot of programmers).Alike men in earth, aliens are just like the english characters ( 'a' to 'z' and A to 'Z') .
+
+The alien came to the airport of dhaka in the morning,after arriving in Bangladesh they went to visit many historical places (but not every alien). 
+Before 2 hours to start the contest,DIU provided 1 bus for taking them to DIU campus.
+Though Takeoff contest is very famous,many people want to attend here so it's seat is limited.So the bus driver is given an algorithm by DIU-programmers to take the alien in bus .
+
+Alien were waiting different bus stand for DIU-bus,though the alien visited many places so they are not in the same stand.(Every stands are in the same straight line).
+Bus-driver went to the farest stand from DIU campus , from first stand he took the first alien form the group of alien standing serially,then the bus went to second stand for second alien and so on.
+For example, if you are
+analyzing the third group of alien , you should consider its third position alien, but if it just has two alien, then you
+should try to take a alien with the third position of the fourth group.
+
+Now,Write a Program to find the alien who can participate in DIU takeoff programming contest.
+
+Input:
+Input starts with an integer T (<= 30), denoting the number of test cases in first line of input.then there is a blank line before the
+first test case. Each test case represents the total number of aliens(1<=A<=10^5) standing in groups(1<=G<=100) in different bus stands(Every bus stand will separate by a single blank space). 
+
+Output:
+For each test case you must print the number of the test case and which alien can enter into bus for contest,
+one per line (look the sample output for the exact format). You must print a blank line between each
+test case.
+
+
+Sample Input
+2
+
+Hi Good Lawyer
+My Horrible Sound
+
+Sample Output
+
+Case 1: H o w
+Case 2: M o u
