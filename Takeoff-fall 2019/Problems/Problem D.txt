@@ -1,0 +1,36 @@
+You will have to know about the PMCO(Pubg Mobile Club Open) tournament Global final 2019.There 16 teams fight for the winner Title.Pubg evaluates the teams depending on their total points T.
+          Total points (T) = kill points (K) + Place points (P)
+
+Pubg is in trouble to declare the Winner. They beg for your help.Now its your task to declare the winner.
+
+Note:If the Total points of several teams became equal,then winner will be the team who is on the top of the given list image.
+
+Input:
+input contains the kill points (K > -1) and the Place points (P > -1).input will be given for a team according to the order of given list image.
+
+Output:
+Print the team name who is winner.
+
+Sample:
+input:
+174 129
+113 84
+103 88
+122 68
+90 67
+99 52
+78 69
+93 46
+75 58
+82 49
+63 42
+65 37
+53 48
+61 36
+43 39
+46 21
+
+output:
+BIGETRON
+
+first 2 inputs for BIGETRON, second 2 inputs for TOP ESPORTS and so on.....

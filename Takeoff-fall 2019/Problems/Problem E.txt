@@ -1,0 +1,21 @@
+Curious Friend
+
+Rana and Rakib are students of Daffodil International University. One day Rana and Rakib were playing in the field of DIU. They are curious about areas of DIU field. We all know DIU has three field two Square and one Circle (golf field). They try to calculate the area of the field. Every field has two symbol S or C  and integer number L. The symbol S means Square, C means Circle and L means length of square one side or Circle Diameter. Well they’re not good at mathematics, so You must help to find the area of that particular field. Write a program that takes two values from keyboard and give area of the field.
+
+Pi(π) value = 3.14159
+
+Input
+The first line of the input contains a number T (1 <= T <=100), the number of test cases. Each following line contains one character F (‘S’ or ‘C’) and one integers L (100 <=L <=1000) separated by space. Where F and L are the field means (Square or Circle) and length of square one side or Circle Diameter
+Output
+For each test case print the case number and the area of the field (2 digits after the decimal point). Check the sample I/0 for the exact output format.
+
+Sample
+Input
+Output
+3
+C 467
+S 334
+C 500
+Case 1: 171286.555
+Case 2: 111556.000
+Case 3: 196349.375

@@ -1,0 +1,25 @@
+Winter is Coming
+
+You heard this title, right? "Winter Is Coming" is the motto of House Stark, one of the Great Houses of Westeros in GOT. But in this problem we don’t talk about GOT series. As you’re a student of DIU. You know that in every Fall semester our varsity’s each and every department made dept tour and enjoy the winter season. Approximately maximum students like winter season. Sajek, Sent-martin, Nilgiri and most exciting place in Bangladesh are look really beautiful in Winter season. And all kinds of tourist make free time to visit those places. Mr. x is going to Sajek with some of his N friends on 06/12/2019 and they will stay in Sajek for M Night. So, He wanted to calculate the money for each person needed to go Sajek and Come Back to Dhaka.
+
+Transport Cost Dhaka to Khagrachori Per person 750 TK. Chader gari Cost Khagrachori to Sajek  1250 TK, Resort Per night with food  350 TK
+
+Input
+Input contains two integers space-separated  N (2 <=N <=100), and M (2 <=M <=15 ). Where N and M are the number of friends and how many night Mr. x will stay in Sajek.
+
+Output
+For each output print only the total cost of  per person. Check the sample I/0 for the exact output format.
+
+
+Sample
+Input
+67 9
+58 6
+14 13
+
+Output
+
+4047
+4036
+4325
+

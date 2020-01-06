@@ -1,0 +1,30 @@
+Problem Name --- Secret Message !
+
+
+A special detective agent Nusrat work in a secret mission. Recently she got a note , in that note there has a sentence which carry lot of words and also in the end of the note there has 'n' number of words. Nusrat know in that sentence there has a hidden secret message which is very important for her. And Nusrat also know the pattern to find the secret message. But that was very timely and hardly process. Now Nusrat need a program which will help her to find the secret message.
+
+As a programmer can you make a programe to help Nusrat?
+
+Input :
+In input there will be a sentence which will carry lot of words, it's also true that there will be no word repeatedly. And 'n' number of word's. 
+
+Output :
+In output you need to print the secret message.
+
+
+Example Input :
+This is DIU and others take the last step off programming and different kind of contest event.
+
+5
+
+is
+others
+step
+off
+of
+
+Example Output :
+DIU take off programming contest
+
+
+
