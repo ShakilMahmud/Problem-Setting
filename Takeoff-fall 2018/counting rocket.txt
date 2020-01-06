@@ -1,0 +1,30 @@
+You will have to know that,Shakil was working for NASA till 2 years.Almost Everyday Shakil has to solve many logical problems by using algorithm.Today Shakil has also faced such kind of problem.
+NASA has a lot amount of  stations ( N ) to Launch their rockets.(From / to the stations rockets go  / come).
+From first station rocket  goes then in the second station another rocket will come and so on..
+The stations  are numbered through integer values 1 to n sequentially. 
+But there has a problem ,number 5 is unlucky for NASA ,so NASA avoid the stations number 5 or any numbers divisible by 5.
+ NASA  uses only three colors to mark the outgoing rockets.First 2 outgoing rockets as blue ( B ), then next outgoing rocket is as green ( G ) and the next outgoing rocket is as red ( R ) and does it repeatedly.
+Now it’s your task to help Shakil , so that shakil can say how many blue,green,red marked rockets are listed.
+
+Input:
+input starts with an integer T (<= 10), denoting the number of test cases.Each test case will contains the number of station N (0 < N >= 10^5).
+
+Output:
+For each test case print the answer like example.
+
+Example:
+input:
+2
+1
+11
+output:
+Case 1 :
+B = 1
+Case 2 :
+B = 3
+G=1
+R=1
+
+*note :  Be Careful with using space .
+
+

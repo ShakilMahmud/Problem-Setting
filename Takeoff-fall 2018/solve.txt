@@ -1,0 +1,54 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define N 100009
+int a[N],f[N],z;
+ pre(){
+   int j=1;
+         for(int i=1;i<=N;i++){
+            if((i%5)==0)
+                continue;
+            else{
+                a[j]=i;
+                j++;
+            }
+
+           }
+           z=j-1;
+ }
+fin(){
+            int k=1;
+            for(int i=1;i<=z;i+=2){
+                f[k]=a[i];
+                k++;
+            }
+}
+
+int main()
+{
+    pre();
+    fin();
+    int t,n,p=0;
+    scanf("%d",&t);
+    while(t--){
+            ++p;
+            int b=0,g=0,r=0;
+        scanf("%d",&n);
+         for(int i=1;;i++){
+            if(f[i]<=n){
+                 int y= i%4;
+                 if(y==0)r++;
+                 else if(y<=2)b++;
+                 else if(y==3)g++;
+
+            }
+            else break;
+         }
+         printf("Case %d :\n",p);
+         if(b)cout <<"B = "<<b<<endl;
+         if(g)cout <<"G = "<<g<<endl;
+         if(r)cout <<"R = "<<r<<endl;
+
+    }
+
+    return 0;
+}
