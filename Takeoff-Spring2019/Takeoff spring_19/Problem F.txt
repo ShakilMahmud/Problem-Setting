@@ -1,0 +1,19 @@
+Once upon a time Kishor pasha,Musa Aman and Robin Milford was investigating about missing parrot case in Rocky Beach, California. The speciality about the parrots was that they told specific riddle about finding the next parrot.Thus one parrot was saying “To be or not to be that is the question”. Kishor Pasha suddenly remembered that the quote was the famous verse from SHAKESPEARE ‘s Hamlet. But the parrot was stammering when saying “To be”. It was listened “TO TO Be”. And brainy kishor found that it was a street address “22B” of rocky beach,california. 
+
+But it is impossible to separate every stammered words.They decided they will separate the matched substring words.So they hired you as a programmer.So now your responsibility is finding a matched substring word where the first part of word matches the last part. Suppose  “MAMA” here first two letters “MA” matched last two letters.
+
+You will given an integer number N. N words will be given in following N lines. You have to find if the word matches the above criteria. If matched then print “Yes” otherwise print “No”
+
+N(1<=N<=1000)
+The character of words will be in 100 char.
+
+Sample Input:
+3
+mama
+zitter
+papa
+
+Sample Output:
+Yes
+No
+Yes

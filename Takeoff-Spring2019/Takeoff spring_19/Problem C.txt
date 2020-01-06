@@ -1,0 +1,21 @@
+For the upcoming takeoff programming contest,CPC-PC has created a banner.The banner will be hang on the top of the tower on permanent campus.Mr Jalal will do the job.
+
+But there is a problem Mr jalal can't climb,so he needs a ladder.
+
+You will be given the height of the tower A (meter) and distance of jalal form the tower's ground B (meter), you have to calculate the length of the ladder H in meter.
+input:
+input two integer values A,B denotes the height of the tower and distance from tower to jalal.
+Output:
+print the length of the lader H (meter) that jalal will use.
+
+Sample:
+input:
+2
+3
+Output:
+3.61
+input:
+3
+4
+Output:
+5

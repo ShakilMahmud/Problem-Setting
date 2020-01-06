@@ -1,0 +1,35 @@
+Today,The Computer and Programming Club is providing snacks for the talented Programmers of DIU-PC due to contest.
+Salman is an obedient person to manage the snacks and serve these among the programmers.Salman is very much poor on math,so he has a uneasy feeling because of calculating the cost every time.item price increases or decreases day by day so Salman needs help from you.
+
+Snacks items and cost are given below:
+
+              item           cost
+          Cake               14.50
+          juice              15.10
+          laddu               5.00
+          chocolate          20.90
+
+Salman will calculate it like (15+16+5+21= 57)
+
+Input:
+Input will start with four floating point values A,B,C and D that say about the values of cake,juice,laddu and chocolate respectively.
+
+Output:
+Show the summation of the four values like Salman.
+
+example:
+
+Input:
+14.50
+15.10
+5.00
+20.90
+Output:
+57
+Input:
+14.00
+15.00
+5.00
+20.00
+Output:
+54

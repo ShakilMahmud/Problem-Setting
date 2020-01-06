@@ -1,0 +1,20 @@
+Case 1 :
+173 km/h
+Case 2 :
+1093 km/h
+Case 3 :
+4673 km/h
+Case 4 :
+1693 km/h
+Case 5 :
+1151 km/h
+Case 6 :
+911 km/h
+Case 7 :
+617 km/h
+Case 8 :
+1907 km/h
+Case 9 :
+154 km/s
+Case 10 :
+1543 km/h

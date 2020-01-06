@@ -1,0 +1,26 @@
+You will have to know that,Shakil was working for NASA till 2.5 years.In everytime if he faces any problem,he begs help to the talented Programmers of DIU.
+
+NASA launched the Parker Solar Probe on August 12,2018 by the Delta IV-Heavy with Upper Stage at a speed of 154 km/s.On August 13,2018 the Solar Probe started to run by its own speeds.at the first day Parker ran at the speed of 2 km/h,next day parker ran at the speed of 3 km/h,at 3rd day Parker ran at the speed of 5 km/h and so on.....
+shakil finds a pattern of speed increasing day by day as follows and the numbers are (A whole number greater than 1 that can not be made by multiplying other whole numbers.)
+
+ 2,3,5,7,11,13,17,19.................................
+
+Now, its your time to help shakil ,so that he can say the speed of Parker Solar Probe in given day's number.
+
+Input:
+input starts with an integer T (<= 10), denoting the number of test cases.Each test case will contains the day's number N (0 < N >= 10^3). 
+Output:
+For each test case print the answer like example.
+
+Note: the day's number N will be counted from august 12,2018.
+
+Example:
+input:
+2
+1
+9
+output:
+Case 1 :
+154 km/s
+Case 2 :
+19 km/h

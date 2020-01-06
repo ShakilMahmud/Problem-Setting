@@ -1,0 +1,21 @@
+You all know that,DIU Takeoff Programming Contest held on every semester at Friday or Saturday.
+Our judges found that if the contest held on friday,contestants do well in Contest otherwise they can't make a satisfactory result.
+
+Now,its your task to say if the contest will good or bad.
+Input:
+Input will be END OF FILE,where for each you will have to take two character_array inputs A , B (name of the day "B" may uppercase or lowercase or mixed) denotes the Semester and the day of the contest  respectively.
+
+Output:
+Print the string "GOOD TO GO !" if the contest is good,otherwise print the string "Very Bad !".
+
+Sample:
+Input:
+spring'19 friDay
+fall'18 Friday
+spring'18 SatUrdaY
+summer'18 friday
+Output:
+GOOD TO GO !
+GOOD TO GO !
+Very Bad !
+GOOD TO GO !

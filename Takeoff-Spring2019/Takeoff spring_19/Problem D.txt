@@ -1,0 +1,18 @@
+'Mahmud' is a delirious programmer.He likes binary numbers so much even he writes epistle to his beloved 'Jannat'.'Mahmud' uses binary numbers every where, therefore he made a machine,which will do his every binary calculations.Today is takeoff contest so the mad programmer 'Mahmud' decided to make a problem with binary numbers.
+
+Input :
+Input will start with a test case T(<=10),for each test case you have to input an integer number N (N > -1) that can be represented on 32 bits and will obviously be a decimal value.
+Output:
+Your work is to count the numbers of bits set to 1 in N's binary representation.
+
+Examples:
+input
+2
+23
+5
+output
+4
+2
+
+
+***note: Mahmud will use his machine to Justify your output, so use faster process to calculate the value.
