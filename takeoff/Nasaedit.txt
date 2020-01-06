@@ -1,0 +1,23 @@
+You will have to know that,after the previous takeoff contest, Shakil got the job in NASA. He is given his first project by NASA.
+The project is about the Voyager 1 (Voyager 1 is a space probe launched by NASA on September 5, 1977) and the Hubble Space Telescope (Hubble is one of the largest space telescope)
+
+Voyager 1 sends data to hubble telescope about the "Solar System", but hubble doesn't get all data that is given by Voyager 1.the voyeger 1 gives data as a packet. Each packet contains integer data N.
+
+Shakil found that,  if the total number of positive numerical values is a composite number(composite is which has factors other than 1 and itself) hubble will convert it to next prime number N and say "i got it".Othewise hubble will say "Bad luck".
+Now it is your task to help shakil,so that he can say hubble will got the data packet or not.
+
+input:
+input starts with an integer T (<= 50), denoting the number of data packets.Each data packet will contains data N (0 <= N >= 10^9).
+
+Output:
+For each test case print the answer like example.
+ 
+Example:
+input:
+2
+12
+898983
+
+output:
+Case 1 :Bad luck
+Case 2 :7 i got it 
