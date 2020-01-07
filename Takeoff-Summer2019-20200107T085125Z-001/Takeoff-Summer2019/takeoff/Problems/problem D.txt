@@ -1,0 +1,19 @@
+Some friends from DIU will go to the longest sea beach in the world,COX's Bazar.
+They have managed all the things but they are confused to confirm how many friends should go to the tour.One of them thought about the speech of their "Bangladesh Studies" teacher.The teacher told them,"If the number of passenger is 2 or 3 then it will be Good,if it is multiply of 2 and 3 both then it will be Best otherwise it will be Bad according to the seat management of the buses".
+Now it's your task to help them whether their tour will Good,Bad or Best.
+
+Input:
+Input will start with a test case T(<=10).Each test case will contains the number of friends N(1 <= N >= 10^25).
+Output:
+For each test case print the assertion.
+
+Example:
+Input:
+3
+3
+6
+3635883959606670431112222
+Output:
+Good
+Best
+Best

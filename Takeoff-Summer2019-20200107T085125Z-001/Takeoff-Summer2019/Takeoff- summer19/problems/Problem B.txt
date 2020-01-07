@@ -1,0 +1,19 @@
+Do You Love Carrom?
+
+I know all of you know about Muhammed Shakil Mahumud vai but I can challenge you don't know about Abid Vai, who was also known as Good Programmer once but Now a days Not only in Programming but also he is  Expert in different games like carrom and His partner is always Muhammed shakil vai. As I said Abid vai is Expert in Carrom as well as Shakil vai is also expert in Carrom, They always win the game.
+
+Abid vai always loves to takes red point but the problem he is weak in calculation he always forget when we needs red points and when we doesn't. Suppose if the point is greater than twenty three (point > 23) then we doesn't need red point at that moment's we need to focus on other's carrom ball. Now a days Shakil vai is busy beacuse of take off programming contest tha's why he can't join abid vai today's game. So today you are the partner of Abid vai and your task is to give remainder him when we needs red point's and when we doesn't.
+
+N.B.  The game point is in 29
+
+Input:
+Input starts with the test case (T <= 10).
+output:
+For each test case print the output like given below.
+Input:
+2
+24
+23
+Ouput:
+we don't need red points.
+we badly need red points$.

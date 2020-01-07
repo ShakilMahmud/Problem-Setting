@@ -1,0 +1,35 @@
+You will have to know that "Shakil Mahmud" is working for NASA for 4 years. But  "Shakil Mahmud"  has decided that he will resign from the job because it is a long time and he is tired. We will say bye to "Shakil Mahmud" from takeoff programming contest also.
+
+
+"Shakil Mahmud" is working in a project of NASA about the planet of "Vega"(Vega is the brightest star in the northern constellation of Lyra)."V 391 Pegasi a" is a planet of the giant star "Vega".NASA maid a connection with the planet's living species. NASA gives a signal to talk with them.
+But the alien responds the signal differently. Signal is a packet of characters C('A'>=C<='Z' or 'a'>=C<='z' or C='  ').  
+First of all the aliens sort the signal's characters in ascending order according to their ASCII values and remove the whitespaces.then they calculate the difference of two side by side characters in the signal. when the aliens find the numbers as a prime number then they generate a binary number 1 otherwise 0 and make signal(using those binary numbers) to respond.
+ 
+
+"Shakil Mahmud" wants to solve the last problem in his career. So, help him to solve the problem.
+
+
+
+input:
+
+input will start with a test case T(<=10). Each test case contains the(signal) packet of characters S(size 2<=S<=10^3).
+
+
+Output:
+For each test case print the signal of aliens.
+
+
+
+Input:
+
+2
+
+Shakil
+
+ACM
+
+output:
+
+Case 1: 01010 
+
+Case 2: 10

@@ -1,0 +1,20 @@
+PlayerUnknown's Battlegrounds is an online multiplayer battle royale game (PUBG).Mr. Akash is a very good player in PUBG.Circle is an important part of the game.Akash found a pattern of decreasing the circle radius from the immediate previous radius.The pattern is like below.....
+ 1,2,3,5,8,13,21,34............... (m).
+Now, it's your task to find how many steps need,to become the redius zero or less.
+
+Input:
+Input starts with test case T(<=10),Each test case contains the base redius R(20<= R >=2500) in meter.
+
+Output:
+for each test case print the output like sample.
+
+Sample:
+
+input:
+2
+55 m
+444 m
+Output:
+Case 1: 8
+Case 2: 12
+

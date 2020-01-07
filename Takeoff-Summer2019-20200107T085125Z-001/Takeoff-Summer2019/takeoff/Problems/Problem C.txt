@@ -1,0 +1,22 @@
+THE GREEDY PLAYER
+Mr. ‘X’ is a very Good Cricket Player Imagine your best Player in your mind. Mr. X can get double run on peach so easily where others player can’t. So that Mr. X got an award called “RUNNER”. He always try to get Even number of run in a Ball. Whether it may go out of Boundary also. 
+If Mr. ‘X’ take single run in a starting of over then he really missed the strike. So he don’t like Odd numbers run until the last Ball of the over. Whether it will be 2 runs or it will be boundary or Just a single run on the last ball of that over. Because he always want Strike. So he can make Fifty or Century faster than other player. 
+In this problem Mr. X has a list of the Runs of all balls and now he wants to know how many Balls are there with even Runs.
+Input
+The first line of input contains one integer T (1 = T = 30), the test cases.
+The next T line contains
+N integer numbers (1 = N = 100) the number of Ball.
+The next N line contains R (1 = R = 6) integer number each Ri, Ri…… represents the run of each balls.
+Output
+Print the test case (Case #->B) where ‘#’ will be the case number, and ‘B’ Will be the number of Balls that have an even Runs.
+
+Sample Input
+2
+3
+1 2 4
+6
+1 6 3 4 2 1
+
+Sample Output
+Case 1->2
+Case 2->3

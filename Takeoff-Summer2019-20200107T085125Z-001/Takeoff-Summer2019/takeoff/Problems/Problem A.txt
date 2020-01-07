@@ -1,0 +1,29 @@
+Today is the Takeoff Programming Contest at Daffodil International University, Permanent Campus.We are very much happy to get the legendary girl Programmer "Anan Afrida" as our judge .For this great achievement,all of us should welcome the legend.
+
+You need to write the code which will produce the line "Welcome Anan To Takeoff Programming Contest!"
+(Without quotes). For this, you just have to write the following code exactly and
+just submit.
+
+
+#include <stdio.h>
+
+int main()
+{
+printf("Welcome Anan To Takeoff Programming Contest!");
+
+return 0;
+}
+
+
+Input
+There is no input in this problem. Only write the code exactly and submit.
+
+Output
+Welcome Anan To Takeoff Programming Contest!
+
+Sample
+
+Input 
+/* There is no input for this problem */
+Output
+Welcome Anan To Takeoff Programming Contest!

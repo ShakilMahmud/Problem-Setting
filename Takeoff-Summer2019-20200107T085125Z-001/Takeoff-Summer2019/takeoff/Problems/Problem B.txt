@@ -1,0 +1,22 @@
+Sadikul and Mim are best friends so when their study has finished, Mim: “Goodbye!” Sadikul : “hey don't miss me, just tell me how to solve this problem”... Mim : “ ----What???”
+So Mim need your help to solve this,
+The problem for Couples who always love even and they always remaining even! And always match every side of them similar to palindromes!
+
+So you are given three numbers T,  S(0=<S=<999), M(0=<M=<10^3) where  T denotes Test Case and S and M define the minimum and maximum range, you need to find the sum of first two Couples if you don't find any couples then the output will be "0".
+
+	Example:
+		input: s = 2 and m = 50
+		output: 33
+		where 11 and 22 are the first two couples in this range and they contain an even number of digits.
+		and 11+22 = 33
+
+
+input: 
+2
+3 50
+110 213
+output:
+33
+0
+
+

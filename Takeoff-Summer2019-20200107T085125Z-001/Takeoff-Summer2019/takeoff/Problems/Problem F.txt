@@ -1,0 +1,28 @@
+Geometric Shape
+
+A movie titled “Triangle” The best movie ever watched and it is highly under rated as it is enjoyed to the fullest only by the die hardcore science friction fans.
+In this problem we will see some shapes of geometry Not “Triangle”.
+You will be given a Quadrangular shape in a 2D grid. You have to identify whether it is a “Rectangle” or “Square”.
+It is guaranteed that there will be exactly one shape and it will be either “Rectangle” or “Square” and the length of the smallest side of that Quadrangular shape will be at least 2.
+Input
+The first line is the number of test case T (T = 30).
+For each test case there will be two numbers N and M (2 = N, M = 100), where N is the number of row and M is the number of column.
+The next N lines will contain M characters either “#” or “.”.
+”#” means: This cell is a part of the Quadrangular shape.
+”.” means: This cell is not a part of the Quadrangular shape.
+Output
+For each test case print “Rectangle”, if the Quadrangular Shape is a rectangle or “Square”, if it is a square. 
+Sample Input
+2
+4 4
+####
+#..#
+#..#
+####
+3 5
+...##
+…##
+…##
+Sample Output
+Square
+Rectangle
